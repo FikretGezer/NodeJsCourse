@@ -1,0 +1,8 @@
+.initial-message {
+    color: red;
+    cursor: pointer;
+    transition: 0.4s;
+}
+.initial-message:hover{
+    color: black;
+}
